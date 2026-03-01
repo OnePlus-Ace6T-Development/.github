@@ -1,6 +1,6 @@
 # LineageOS For OnePlus Ace 6T (macan, Chinese Variant)
 Maintainer: @yyeger
-big help from: @chandu078 @NullCode1337 @jonas
+big help from: @chandu078 @NullCode1337 @koaaN
 
 
 ## Working
