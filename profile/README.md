@@ -32,6 +32,7 @@ big help from: @chandu078 @NullCode1337 @koaaN
 - ! Double tap to wake
 - ! SELinux Permissive
 - ! Vibration
+- ! IMEI
 
 
 
